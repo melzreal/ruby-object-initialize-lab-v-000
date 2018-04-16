@@ -7,7 +7,7 @@ def Person
     @name
   end 
   
-  def dog=(name)
+  def name=(name)
    @name = name 
  end
  
