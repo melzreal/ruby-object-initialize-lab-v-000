@@ -3,8 +3,8 @@ def Person
     @name
   end
   
-  def dog
-    @dog 
+  def name
+    @name
   end 
   
   def dog=(name)
