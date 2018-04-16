@@ -4,8 +4,8 @@ def Dog
     @breed = "Mutt"
   end
   
-  def dog
-    @dog 
+  def name
+    @name 
   end 
   
   def dog=(name)
